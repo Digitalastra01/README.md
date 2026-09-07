@@ -67,7 +67,7 @@ Passionate Machine Learning Engineer with experience in developing and deploying
 
 ## 💡 Fun Fact
 <!-- FUN_FACT_START -->
-> Johnny Appleseed planted apples so that people could use apple cider to make alcohol.
+> A giraffe can go without water longer than a camel.
 <!-- FUN_FACT_END -->
 
 
